@@ -23,7 +23,7 @@ give me a problem that has no obvious solution and i go full tunnel vision — f
 
 - 🧠 **[Retentionite](https://retentionite.site)** — MERN stack · AWS (EC2, RDS, S3) · AI flashcard generation · spaced repetition with SM-2 · ~50 users and growing
 - 💼 **Freelancing** — building full-stack web apps for clients · if you need something built, let's talk
-- 📈 **DSA grind** — solving problems on LeetCode in C++ daily · [check my progress](https://leetcode.com/u/Adiyanbaig01/)
+- 📈 **DSA grind** — solving problems on LeetCode in C++ daily · [check my progress](https://leetcode.com/u/Adiyanbaig/)
 
 ---
 
